@@ -1,0 +1,38 @@
+[submodule "src/competitor/wormhole/src"]
+	path = src/competitor/wormhole/src
+	url = https://github.com/wuxb45/wormhole.git
+[submodule "src/competitor/wormhole_u64/src"]
+	path = src/competitor/wormhole_u64/src
+	url = https://github.com/wuxb45/wormhole.git
+	branch = whu64
+[submodule "src/competitor/artsync/src"]
+	path = src/competitor/artsync/src
+	url = https://github.com/pohchaichon/ARTSynchronized.git
+[submodule "src/competitor/lipp/src"]
+	path = src/competitor/lipp/src
+	url = https://github.com/pohchaichon/lipp
+	branch = main
+[submodule "src/competitor/lippolc/src"]
+	path = src/competitor/lippol/src
+	url = https://github.com/eric-lo/lippolc.git
+[submodule "data_generator"]
+	path = data_generator
+	url = https://github.com/pohchaichon/PLADataGen.git
+[submodule "src/competitor/pgm/src"]
+	path = src/competitor/pgm/src
+	url = https://github.com/gvinciguerra/PGM-index.git
+[submodule "src/competitor/alex/src"]
+	path = src/competitor/alex/src
+	url = https://github.com/microsoft/ALEX.git
+[submodule "src/competitor/btree/src"]
+	path = src/competitor/btree/src
+	url = https://github.com/bingmann/stx-btree.git
+[submodule "src/competitor/btreeolc/src"]
+	path = src/competitor/btreeolc/src
+	url = https://github.com/pohchaichon/index-microbench.git
+[submodule "src/competitor/finedex/src"]
+	path = src/competitor/finedex/src
+	url = https://github.com/pohchaichon/FINEdex.git
+[submodule "src/competitor/hot/src"]
+	path = src/competitor/hot/src
+	url = https://github.com/speedskater/hot.git
