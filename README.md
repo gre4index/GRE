@@ -1,5 +1,5 @@
 # GRE
-GRE is a benchmark suite for learned indexes and traditional indexes to measure throughput and latency with custom workload (read / write ratio) and any dataset. GRE allows users to add indexes as competitors with ease via the interface.
+GRE is a benchmark suite for learned indexes and traditional indexes to measure throughput and latency with custom workload (read / write ratio) and any dataset. GRE quantifies datasets using local and global hardness, and includes a synthetic data generator to generate data with various hardness.
 
 ## Requirements
 - gcc 8.3.0+
