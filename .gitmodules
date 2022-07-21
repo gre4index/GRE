@@ -15,9 +15,6 @@
 [submodule "src/competitor/lippolc/src"]
 	path = src/competitor/lippol/src
 	url = https://github.com/eric-lo/lippolc.git
-[submodule "data_generator"]
-	path = data_generator
-	url = https://github.com/pohchaichon/PLADataGen.git
 [submodule "src/competitor/pgm/src"]
 	path = src/competitor/pgm/src
 	url = https://github.com/gvinciguerra/PGM-index.git
