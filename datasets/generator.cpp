@@ -605,7 +605,7 @@ void dataGenerator(int local_epsilon, int global_epsilon, int local_value,
   // local_value (global_value) means # model for local (global) epsilion
   if (local_epsilon > global_epsilon || local_value < global_value) {
     std::cout << "Wrong settting for the parameters!" << std::endl;
-    std::cout << "Requirement: Local epsilon >= global_epilon, local_value >= "
+    std::cout << "Requirement: Local epsilon <= global_epilon, local_value >= "
                  "global_value"
               << std::endl;
     return;
