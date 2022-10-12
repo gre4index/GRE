@@ -1,6 +1,11 @@
 # GRE
 GRE is a benchmark suite for learned indexes and traditional indexes to measure throughput and latency with custom workload (read / write ratio) and any dataset. GRE quantifies datasets using local and global hardness, and includes a synthetic data generator to generate data with various hardness.
 
+See details in our VLDB 2022 paper below. If you use our work, please cite:
+```
+Chaichon Wongkham, Baotong Lu, Chris Liu, Zhicong Zhong, Eric Lo, and Tianzheng Wang. Are Updatable Learned Indexes Ready?. PVLDB, 15(11): 3004 - 3017, 2022.
+```
+
 ## Requirements
 - gcc 8.3.0+
 - cmake 3.14.0+
